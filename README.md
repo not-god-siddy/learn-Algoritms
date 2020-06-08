@@ -1,2 +1,2 @@
 # learn-Algoritms
-Algoritms thst are useful in programming contests , coding interviews
+Algoritms that are useful in programming contests , coding interviews
